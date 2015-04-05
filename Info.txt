@@ -1,0 +1,15 @@
+Team Members
+
+1. Gaurav Kumar Chandel (IIT2012056)
+2. Nithin Srikar Karnala (IIT2012014)
+3. Ritesh Kumar Sinha (IIT2012003)
+4. Mohit Purbey (IIT2012055)
+5. Harivansh Kumar (IIT2012026)
+
+Technology Used
+1. Programming Language - Android
+2. OCR engine - Tesseract
+
+DataSet
+English language data for Tesseract
+eng.traineddata			
